@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "qbittorrent-api-v2": "^1.2.2"
+  }
+}
