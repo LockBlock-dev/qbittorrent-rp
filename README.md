@@ -1,8 +1,10 @@
 # qBittorrent Rich Presence
 
-Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/) made with [![d-r-p](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/qbittorrent-rp/discord-rich-presence)](https://www.npmjs.com/package/discord-rich-presence) and [![qb-api-v2](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/qbittorrent-rp/qbittorrent-api-v2)](https://www.npmjs.com/package/qbittorrent-api-v2)
+[![d-r-p](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/qbittorrent-rp/discord-rich-presence)](https://www.npmjs.com/package/discord-rich-presence) [![qb-api-v2](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/qbittorrent-rp/qbittorrent-api-v2)](https://www.npmjs.com/package/qbittorrent-api-v2)
 
 [![GitHub stars](https://img.shields.io/github/stars/LockBlock-dev/qbittorrent-rp.svg)](https://github.com/LockBlock-dev/qbittorrent-rp/stargazers)
+
+Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/)
 
 ![Rich Presence preview](/preview.jpg)
 
