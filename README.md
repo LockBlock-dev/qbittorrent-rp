@@ -10,19 +10,24 @@ Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/)
 
 Note that you need QBittorrent already launched before starting the rich presence.
 
+# Deprecation Notice
+
+You should use [this fork](https://github.com/weebi/qbittorrent-rp) instead.
+
 ## How to use
 
 • Download [NPM](https://www.npmjs.com/get-npm) and [NodeJS](https://nodejs.org)
 
 • Download the project or clone it
 
-• Go to the GMiner RP folder and do `npm install`
+• Go to the qbittorrent-rp folder and do `npm install`
 
 • Go to your qBittorrent settings and activate **WEB UI**
 
 • Set the ip, port, username and password
 
 • Edit the config :
+
 ```js
 host: {
     ip:"127.0.0.1",
@@ -38,7 +43,6 @@ showUpdateLogs: true,
 ```
 
 • Run it by doing `node index.js`
-
 
 ## Copyright
 
