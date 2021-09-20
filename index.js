@@ -23,10 +23,10 @@ const averageRatio = (torrents) => {
     return (ratio / c).toFixed(2);
 };
 
-const api = await qbit.connect(`http://${config.host.ip}:${config.host.port}`, config.user, config.password);
 const rpc = new discord.Client({ transport: "ipc" });
 
 const discordPRC = async () => {
+    const api = await qbit.connect(`http://${config.host.ip}:${config.host.port}`, config.user, config.password);
     let torrents = await api.torrents();
     let speeds = await api.transferInfo();
     let version = await api.appVersion();
