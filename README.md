@@ -8,7 +8,7 @@ Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/)
 
 ![Rich Presence preview](/preview.jpg)
 
-Note that you need QBittorrent already launched before starting the rich presence.
+Note that you need qBittorrent already launched before starting the rich presence.
 
 ## How to use
 
