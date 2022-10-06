@@ -2,7 +2,7 @@ const qbit = require("qbittorrent-api-v2");
 const discord = require("discord-rpc");
 
 const config = require("./config.js");
-const clientId = "855773421698940969";
+const clientId = "1027715138750513164";
 const startTimestamp = new Date();
 
 const bytesToSize = (bytes) => {
